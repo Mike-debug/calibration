@@ -1,0 +1,13 @@
+输入
+exp1文件夹中存放用于相机标定的图片
+
+输出
+cornersfind文件夹中存放找到角点的图片
+undistorted文件夹中存放校正后的图片
+标定结果.txt中记录相机标定参数
+
+注意
+exp1文件夹及其图片不可删除
+cornersfind文件夹和undistorted文件夹不可删除
+cornersfind文件夹和undistorted文件夹中的图片可以删除
+标定结果.txt 可以删除
