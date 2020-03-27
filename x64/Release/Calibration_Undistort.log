@@ -1,0 +1,25 @@
+﻿  Calibration_Undistort.cpp
+E:\c++\Calibration_Undistort\Calibration_Undistort.cpp(116,21): warning C4244: “=”: 从“_Tp”转换到“_Tp”，可能丢失数据
+E:\c++\Calibration_Undistort\Calibration_Undistort.cpp(116,21): warning C4244:         with
+E:\c++\Calibration_Undistort\Calibration_Undistort.cpp(116,21): warning C4244:         [
+E:\c++\Calibration_Undistort\Calibration_Undistort.cpp(116,21): warning C4244:             _Tp=int
+E:\c++\Calibration_Undistort\Calibration_Undistort.cpp(116,21): warning C4244:         ]
+E:\c++\Calibration_Undistort\Calibration_Undistort.cpp(116,21): warning C4244:         and
+E:\c++\Calibration_Undistort\Calibration_Undistort.cpp(116,21): warning C4244:         [
+E:\c++\Calibration_Undistort\Calibration_Undistort.cpp(116,21): warning C4244:             _Tp=float
+E:\c++\Calibration_Undistort\Calibration_Undistort.cpp(116,21): warning C4244:         ]
+E:\c++\Calibration_Undistort\Calibration_Undistort.cpp(117,21): warning C4244: “=”: 从“_Tp”转换到“_Tp”，可能丢失数据
+E:\c++\Calibration_Undistort\Calibration_Undistort.cpp(117,21): warning C4244:         with
+E:\c++\Calibration_Undistort\Calibration_Undistort.cpp(117,21): warning C4244:         [
+E:\c++\Calibration_Undistort\Calibration_Undistort.cpp(117,21): warning C4244:             _Tp=int
+E:\c++\Calibration_Undistort\Calibration_Undistort.cpp(117,21): warning C4244:         ]
+E:\c++\Calibration_Undistort\Calibration_Undistort.cpp(117,21): warning C4244:         and
+E:\c++\Calibration_Undistort\Calibration_Undistort.cpp(117,21): warning C4244:         [
+E:\c++\Calibration_Undistort\Calibration_Undistort.cpp(117,21): warning C4244:             _Tp=float
+E:\c++\Calibration_Undistort\Calibration_Undistort.cpp(117,21): warning C4244:         ]
+  正在生成代码
+  2 of 706 functions ( 0.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  Calibration_Undistort.vcxproj -> E:\c++\Calibration_Undistort\x64\Release\Calibration_Undistort.exe
